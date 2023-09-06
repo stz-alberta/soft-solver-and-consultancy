@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/soft-solver-and-consultancy/static/css/main.24dd3499.css",
+    "main.js": "/soft-solver-and-consultancy/static/js/main.f111287c.js",
+    "static/js/787.be9970b1.chunk.js": "/soft-solver-and-consultancy/static/js/787.be9970b1.chunk.js",
+    "static/media/webBanner.png": "/soft-solver-and-consultancy/static/media/webBanner.36c1ca2974853ead849d.png",
+    "static/media/banner.jpg": "/soft-solver-and-consultancy/static/media/banner.7180e55a6b27209d5cda.jpg",
+    "static/media/team.svg": "/soft-solver-and-consultancy/static/media/team.200f88eb99464486b50361f160dcfd5e.svg",
+    "static/media/sir.jpg": "/soft-solver-and-consultancy/static/media/sir.053413070df1767af6b4.jpg",
+    "static/media/career.svg": "/soft-solver-and-consultancy/static/media/career.49b2eb1edda5e6cd2c17e891ed9ed651.svg",
+    "static/media/log2.png": "/soft-solver-and-consultancy/static/media/log2.0da6ab3a53a5beaf7397.png",
+    "static/media/consultancy.png": "/soft-solver-and-consultancy/static/media/consultancy.aab561786667fa1812a9.png",
+    "static/media/footer2.jpg": "/soft-solver-and-consultancy/static/media/footer2.40833b698cb970d441d1.jpg",
+    "static/media/whyImg.svg": "/soft-solver-and-consultancy/static/media/whyImg.a2cdc4b09cec090573a492152617d7dc.svg",
+    "static/media/web.png": "/soft-solver-and-consultancy/static/media/web.31628e5671e7e566ea8d.png",
+    "static/media/about_us.svg": "/soft-solver-and-consultancy/static/media/about_us.f21060dc5d4366e7294d231984d27113.svg",
+    "static/media/delivery.svg": "/soft-solver-and-consultancy/static/media/delivery.dcf6021109f40176e81c8e52b2cf1ac7.svg",
+    "static/media/app.png": "/soft-solver-and-consultancy/static/media/app.a0757e6449568ff0433e.png",
+    "static/media/seo.png": "/soft-solver-and-consultancy/static/media/seo.5ada2c9dc6f81a8bb05b.png",
+    "static/media/web_design.png": "/soft-solver-and-consultancy/static/media/web_design.7b9a6ea226798f6f7eb3.png",
+    "static/media/react-logo.png": "/soft-solver-and-consultancy/static/media/react-logo.4f2145e1fd935e736b9d.png",
+    "static/media/html-logo.png": "/soft-solver-and-consultancy/static/media/html-logo.d294b1ae18ba1a529f76.png",
+    "static/media/js-logo.png": "/soft-solver-and-consultancy/static/media/js-logo.e84a758249fc862a1176.png",
+    "static/media/bootstrap-logo.png": "/soft-solver-and-consultancy/static/media/bootstrap-logo.c323866f8cf147fc36b7.png",
+    "static/media/ecommerce.png": "/soft-solver-and-consultancy/static/media/ecommerce.a12af54beff05e660c57.png",
+    "static/media/whyBanner.jpg": "/soft-solver-and-consultancy/static/media/whyBanner.0ca99256f78e119a5208.jpg",
+    "static/media/css-logo.png": "/soft-solver-and-consultancy/static/media/css-logo.7aa976c6ee5a8f79d063.png",
+    "index.html": "/soft-solver-and-consultancy/index.html",
+    "main.24dd3499.css.map": "/soft-solver-and-consultancy/static/css/main.24dd3499.css.map",
+    "main.f111287c.js.map": "/soft-solver-and-consultancy/static/js/main.f111287c.js.map",
+    "787.be9970b1.chunk.js.map": "/soft-solver-and-consultancy/static/js/787.be9970b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24dd3499.css",
+    "static/js/main.f111287c.js"
+  ]
+}
