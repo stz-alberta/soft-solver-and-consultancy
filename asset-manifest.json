@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/soft-solver-and-consultancy/static/css/main.24dd3499.css",
-    "main.js": "/soft-solver-and-consultancy/static/js/main.f111287c.js",
+    "main.js": "/soft-solver-and-consultancy/static/js/main.36dfc7c3.js",
     "static/js/787.be9970b1.chunk.js": "/soft-solver-and-consultancy/static/js/787.be9970b1.chunk.js",
     "static/media/webBanner.png": "/soft-solver-and-consultancy/static/media/webBanner.36c1ca2974853ead849d.png",
     "static/media/banner.jpg": "/soft-solver-and-consultancy/static/media/banner.7180e55a6b27209d5cda.jpg",
@@ -27,11 +27,11 @@
     "static/media/css-logo.png": "/soft-solver-and-consultancy/static/media/css-logo.7aa976c6ee5a8f79d063.png",
     "index.html": "/soft-solver-and-consultancy/index.html",
     "main.24dd3499.css.map": "/soft-solver-and-consultancy/static/css/main.24dd3499.css.map",
-    "main.f111287c.js.map": "/soft-solver-and-consultancy/static/js/main.f111287c.js.map",
+    "main.36dfc7c3.js.map": "/soft-solver-and-consultancy/static/js/main.36dfc7c3.js.map",
     "787.be9970b1.chunk.js.map": "/soft-solver-and-consultancy/static/js/787.be9970b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24dd3499.css",
-    "static/js/main.f111287c.js"
+    "static/js/main.36dfc7c3.js"
   ]
 }
